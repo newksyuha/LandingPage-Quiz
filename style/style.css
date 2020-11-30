@@ -1,0 +1,40 @@
+
+body{
+    background: #F5F6F7;
+}
+
+.phone{
+    color: #2E353D;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.hero-navbar{
+    margin-bottom: 96px;
+}
+
+.title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 46px;
+    line-height: 54px;
+    color: #2E353D;
+}
+
+.description{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: #2E353D;
+}
+
+
+.img{
+    box-shadow: 0px 10px 25px rgba(103, 103, 103, 0.1);
+    border-radius: 10px;
+   }
+
+
